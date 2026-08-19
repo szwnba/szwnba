@@ -40,11 +40,3 @@ Here are some ideas to get you started:
 | [**github-showcase**](https://github.com/szwnba/github-showcase) | 个人项目介绍站 — 自动同步 GitHub 原创项目，Actions 每日更新，默认浅色/深色双主题 |
 | [**idea-radar**](https://github.com/szwnba/idea-radar) | 灵感雷达 Idea Radar — 自动扫描 10 个灵感频道的无人值守信号站，每 2 小时巡扫，Vercel 自动部署 |
 <!-- projects:end -->
-
-### 一些琐碎的收藏
-- [WeChat Markdown Editor](https://126.plus/md/) - 一款高度简洁的微信 Markdown 编辑器
-- [Midjourney-Prompt-Generator](https://126.plus/Midjourney-Prompt-Generator/prompt.html) - 选择你需要的关键词，最后生成一行prompt供你在midjourney中使用，方便快捷的生成你想要的图片
-- [多功能图片转换器](https://126.plus/webp2jpg-online/) - 使用浏览器的在线图片格式转化器,无需上传文件,可将jpeg、jpg、png、gif、webp、svg、ico、bmp文件转换为jpeg、png、webp、webp动画、gif、base64、avif、mozjpeg,提供了多个可自定义选项来满足常见需求。
-- [音乐在线播放](https://126.plus/Gmemp/) - 一个纯静态页面设计的音乐播放器，可以完全托管在Github Pages上或者其他任意静态服务器（如阿里云OSS）
-- [个人拍照图片展示](https://126.plus/space/) - 将自己拍的一些照片做成一个静态页面展示
-- [affiliate导航](https://126.plus/affiliate-bookmark/) - affiliate 专属导航
