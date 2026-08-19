@@ -63,18 +63,15 @@ def build_section(repos):
     lines = [
         f"> 🔄 由 GitHub Actions 每周自动更新 · 共 {len(repos)} 个公开原创项目 · 更新时间：{today}",
         "",
-        "| 项目 | 简介 | 主要语言 | ⭐ Stars |",
-        "| :--- | :--- | :---: | :---: |",
+        "| 项目 | 简介 |",
+        "| :--- | :--- |",
     ]
     for r in repos:
         name = cell(r["name"])
         if r.get("archived"):
             name += " *(已归档)*"
         title = f"[**{name}**]({r['html_url']})"
-        lang = f"`{cell(r['language'])}`" if r.get("language") else "—"
-        lines.append(
-            f"| {title} | {cell(r.get('description'))} | {lang} | {r.get('stargazers_count', 0)} |"
-        )
+        lines.append(f"| {title} | {cell(r.get('description'))} |")
     return "\n".join(lines)
 
 
