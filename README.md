@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 🚀 项目仓库
 
 <!-- projects:start -->
-> 🔄 由 GitHub Actions 每周自动更新 · 共 18 个公开原创项目 · 更新时间：2026-09-26
+> 🔄 由 GitHub Actions 每周自动更新 · 共 19 个公开原创项目 · 更新时间：2026-09-28
 
 | 项目 | 简介 |
 | :--- | :--- |
@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 | [**coinlens**](https://github.com/szwnba/coinlens) | 币透 CoinLens · AI 加密货币研究台——四维(技术/资金/情绪/消息)结构化研报生成器 |
 | [**DoitClone**](https://github.com/szwnba/DoitClone) | 经典 GTD，本地优先. 基于经典 doit.im 交互与视觉的完整复刻 |
 | [**johnson-skills**](https://github.com/szwnba/johnson-skills) | 个人 AI 工具箱：收藏与自研的 Agent Skills / MCP 配方 / Prompt |
+| [**we-article**](https://github.com/szwnba/we-article) | 公众号内容创作知识库 — Obsidian + AI Agent 的会生长知识库（Raw/Wiki/Schema 三层） |
 | [**cyber-morning**](https://github.com/szwnba/cyber-morning) | 赛博早安 · 每天自动生成的个人晨报:NASA 每日宇宙图 + 天气 + HackerNews + 币价 + 一首诗 |
 | [**ai-blog**](https://github.com/szwnba/ai-blog) | 全自动流水线生成的 AI 观察博客（由私有仓 wechat-article-pipeline 每日发布） |
 | [**szwnba.github.io**](https://github.com/szwnba/szwnba.github.io) | 个人项目介绍站 — 自动同步 GitHub 原创项目，Actions 每日更新，默认浅色/深色双主题 |
