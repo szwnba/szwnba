@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 🚀 项目仓库
 
 <!-- projects:start -->
-> 🔄 由 GitHub Actions 每周自动更新 · 共 20 个公开原创项目 · 更新时间：2026-10-12
+> 🔄 由 GitHub Actions 每周自动更新 · 共 20 个公开原创项目 · 更新时间：2026-10-19
 
 | 项目 | 简介 |
 | :--- | :--- |
@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 | [**coinlens**](https://github.com/szwnba/coinlens) | 币透 CoinLens · AI 加密货币研究台——四维(技术/资金/情绪/消息)结构化研报生成器 |
 | [**DoitClone**](https://github.com/szwnba/DoitClone) | 经典 GTD，本地优先. 基于经典 doit.im 交互与视觉的完整复刻 |
 | [**johnson-skills**](https://github.com/szwnba/johnson-skills) | 个人 AI 工具箱：收藏与自研的 Agent Skills / MCP 配方 / Prompt |
-| [**koreader-host-monitor**](https://github.com/szwnba/koreader-host-monitor) | Kindle (KOReader) e-ink dashboard for PC host resources: CPU / MEM / DISK / NET / top procs. 3-min auto refresh, vector-rendered grayscale cover, optional multi-host agents. |
 | [**study**](https://github.com/szwnba/study) | 学习资料阅读 PWA：中英文材料 + 学习笔记 |
+| [**koreader-host-monitor**](https://github.com/szwnba/koreader-host-monitor) | Kindle (KOReader) e-ink dashboard for PC host resources: CPU / MEM / DISK / NET / top procs. 3-min auto refresh, vector-rendered grayscale cover, optional multi-host agents. |
 | [**cyber-morning**](https://github.com/szwnba/cyber-morning) | 赛博早安 · 每天自动生成的个人晨报:NASA 每日宇宙图 + 天气 + HackerNews + 币价 + 一首诗 |
 | [**ai-blog**](https://github.com/szwnba/ai-blog) | 全自动流水线生成的 AI 观察博客（由私有仓 wechat-article-pipeline 每日发布） |
 | [**szwnba.github.io**](https://github.com/szwnba/szwnba.github.io) | 个人项目介绍站 — 自动同步 GitHub 原创项目，Actions 每日更新，默认浅色/深色双主题 |
