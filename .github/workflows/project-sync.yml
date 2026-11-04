@@ -1,0 +1,31 @@
+name: Project HQ sync 项目指挥中心同步
+
+on:
+  schedule:
+    # 每日 01:17 UTC（北京时间 09:17）
+    - cron: "17 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: project-hq-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sync original repos into Project HQ
+        env:
+          GH_TOKEN: ${{ secrets.PROJECTS_PAT }}
+        run: python scripts/project_hq_sync.py
